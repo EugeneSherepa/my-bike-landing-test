@@ -1,3 +1,5 @@
+https://eugenesherepa.github.io/my-bike-landing/
+
 # Miami landing page
 
 In this task, you will learn how to implement a landing page. To do that:
